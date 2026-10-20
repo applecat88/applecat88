@@ -76,6 +76,12 @@ I’m here to help turn an idea into something real. The work covers the screen, t
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/applecat88?tab=achievements">
+    <img src="https://github-readme-stats.vercel.app/api?username=applecat88&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=e3b341&icon_color=79c0ff&text_color=c9d1d9&ring_color=a371f7" alt="GitHub stats for applecat88" />
+  </a>
+</p>
+
 ## Design
 
 Interface, layout, and the visual system of a product. The goal is a screen that is clear before it is decorated: type, spacing, color, and the path a person actually follows.
