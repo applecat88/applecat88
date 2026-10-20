@@ -11,6 +11,13 @@
 
 I’m here to help turn an idea into something real. The work covers the screen, the product, the code, and the engineering behind it.
 
+| | |
+| --- | --- |
+| **Design** | Interface, layout, and the visual system of a product |
+| **Full-stack** | The application from the screen through the logic behind it |
+| **AI** | A model inside the product, with a result a person can use |
+| **Expert** | Development, design, engineering, and manufacturing through to what ships |
+
 ## Badges
 
 <p align="center">Every GitHub achievement, at its highest image.</p>
@@ -84,7 +91,7 @@ I’m here to help turn an idea into something real. The work covers the screen, t
 
 ## Design
 
-Interface, layout, and the visual system of a product. The goal is a screen that is clear before it is decorated: type, spacing, color, and the path a person actually follows.
+Type, spacing, color, and the path a person follows. The screen should be clear, and the visual system should hold together from the first layout to the built interface.
 
 <p>
   <img src="https://img.shields.io/badge/UI-111111?style=flat-square&logo=figma&logoColor=ff7a59" alt="UI" />
@@ -99,7 +106,7 @@ Interface, layout, and the visual system of a product. The goal is a screen that
 
 ## Full-Stack Development
 
-The product from the interface through the application behind it. Front end, application logic, and the pieces that have to stay in sync when someone actually uses it.
+JavaScript and React on the front, Node behind it, and Dart with Flutter when the product is a mobile app. The interface and the application logic stay in sync when someone uses it.
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
@@ -115,7 +122,7 @@ The product from the interface through the application behind it. Front end, app
 
 ## AI Engineer
 
-AI as part of the product, not a demo on the side. That means the model, the prompt, the data it can see, and the place in the interface where a person gets a useful result.
+The model, the prompt, the data it can see, and the place in the interface where a person gets a useful result. The AI sits inside the product.
 
 <p>
   <img src="https://img.shields.io/badge/AI%20product-111111?style=flat-square" alt="AI product" />
@@ -130,7 +137,7 @@ AI as part of the product, not a demo on the side. That means the model, the pro
 
 ## Expert
 
-Full-stack work across development, design, engineering, and manufacturing. The job is to take an idea through the decisions that make it hold up: what to build, how it is made, and what ships.
+An idea carried through development, design, engineering, and manufacturing. The decisions are what to build, how it is made, and what ships.
 
 <p>
   <img src="https://img.shields.io/badge/Development-e3b341?style=flat-square&labelColor=111111" alt="Development" />
