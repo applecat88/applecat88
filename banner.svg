@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="AppleCat. Design, full-stack development, AI engineer, and expert.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10141c"/>
+      <stop offset="1" stop-color="#1a130f"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7a59"/>
+      <stop offset="0.5" stop-color="#e3b341"/>
+      <stop offset="1" stop-color="#79c0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="6" fill="url(#rule)"/>
+  <circle cx="1120" cy="78" r="90" fill="#ff7a59" opacity="0.12"/>
+  <circle cx="1188" cy="250" r="120" fill="#79c0ff" opacity="0.08"/>
+  <text x="72" y="118" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="6">GITHUB PROFILE</text>
+  <text x="72" y="196" fill="#f4f1ea" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="72" font-weight="700">AppleCat</text>
+  <text x="72" y="248" fill="#d7d3cb" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26">Design  ·  Full-Stack Development  ·  AI Engineer  ·  Expert</text>
+  <text x="72" y="302" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Turning ideas into working products, from the screen to the system behind it.</text>
+</svg>
