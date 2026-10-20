@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="studio.jpg" alt="AppleCat88 studio — design, full-stack development, and AI engineering" width="100%" />
+</p>
+
+<p align="center">
   <img src="banner.jpg" alt="AppleCat — 3D production, full-stack AI, precise design, and integrated intelligence" width="100%" />
 </p>
 
