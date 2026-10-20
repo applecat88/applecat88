@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="banner.png" alt="AppleCat — Design, Full-Stack Development, AI Engineer, Expert" width="100%" />
+  <img src="banner.jpg" alt="AppleCat — 3D production, full-stack AI, precise design, and integrated intelligence" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Design-111111?style=for-the-badge&labelColor=ff7a59&color=161b22" alt="Design" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-111111?style=for-the-badge&labelColor=79c0ff&color=161b22" alt="Full-Stack Development" />
-  <img src="https://img.shields.io/badge/AI%20Engineer-111111?style=for-the-badge&labelColor=a371f7&color=161b22" alt="AI Engineer" />
-  <img src="https://img.shields.io/badge/Expert-111111?style=for-the-badge&labelColor=e3b341&color=161b22" alt="Expert" />
+  <img src="https://img.shields.io/badge/3D%20Production-121418?style=for-the-badge&labelColor=9bb0c0&color=121418" alt="3D Production" />
+  <img src="https://img.shields.io/badge/Full--Stack%20AI-121418?style=for-the-badge&labelColor=e7b56a&color=121418" alt="Full-Stack AI" />
+  <img src="https://img.shields.io/badge/Precise%20Design-121418?style=for-the-badge&labelColor=d5d0c8&color=121418" alt="Precise Design" />
+  <img src="https://img.shields.io/badge/AI%20Integration-121418?style=for-the-badge&labelColor=8fd0e0&color=121418" alt="AI Integration" />
 </p>
 
-I’m here to help turn an idea into something real. The work covers the screen, the product, the code, and the engineering behind it.
+The same bench runs from a machined part to a working product. The work is 3D production and processing, full-stack software with AI inside it, a design built to the drawing, and those pieces joined so a person gets a result they can use.
 
 | | |
 | --- | --- |
-| **Design** | Interface, layout, and the visual system of a product |
-| **Full-stack** | The application from the screen through the logic behind it |
-| **AI** | A model inside the product, with a result a person can use |
-| **Expert** | Development, design, engineering, and manufacturing through to what ships |
+| **3D production** | A digital model taken through machining, printing, and the processing that finishes the part |
+| **Full-stack** | The application from the screen through the services, with a model in the path |
+| **Design** | Layout, materials, and a build that matches the drawing |
+| **AI integration** | The model wired into the product, with a result on the surface a person actually uses |
 
 ## Badges
 
@@ -93,62 +93,77 @@ I’m here to help turn an idea into something real. The work covers the screen, t
   </a>
 </p>
 
-## Design
-
-Type, spacing, color, and the path a person follows. The screen should be clear, and the visual system should hold together from the first layout to the built interface.
+## 3D production
 
 <p>
-  <img src="https://img.shields.io/badge/UI-111111?style=flat-square&logo=figma&logoColor=ff7a59" alt="UI" />
-  <img src="https://img.shields.io/badge/Layout-111111?style=flat-square&logo=css3&logoColor=79c0ff" alt="Layout" />
-  <img src="https://img.shields.io/badge/Visual%20system-111111?style=flat-square" alt="Visual system" />
-  <img src="https://img.shields.io/badge/Prototype-111111?style=flat-square" alt="Prototype" />
+  <img src="detail-3d.jpg" alt="A machined metal lattice on a fixture, with a luminous toolpath above it and a printed lattice beside it" width="100%" />
 </p>
 
+A part is planned as geometry, then cut, printed, and finished. Toolpaths, lattices, and the fixture under the work stay in one process.
+
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,html,css,vscode&perline=8" alt="Design signs: Figma, HTML, CSS, VS Code" />
+  <img src="https://img.shields.io/badge/Machining-121418?style=flat-square&labelColor=9bb0c0" alt="Machining" />
+  <img src="https://img.shields.io/badge/Additive-121418?style=flat-square&labelColor=9bb0c0" alt="Additive" />
+  <img src="https://img.shields.io/badge/Toolpath-121418?style=flat-square&labelColor=9bb0c0" alt="Toolpath" />
+  <img src="https://img.shields.io/badge/Processing-121418?style=flat-square&labelColor=9bb0c0" alt="Processing" />
 </p>
 
-## Full-Stack Development
-
-JavaScript and React on the front, Node behind it, and Dart with Flutter when the product is a mobile app. The interface and the application logic stay in sync when someone uses it.
+## Full-stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=0175c2" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=54c5f8" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Front%20end-111111?style=flat-square&logo=react&logoColor=61dafb" alt="Front end" />
-  <img src="https://img.shields.io/badge/Back%20end-111111?style=flat-square&logo=nodedotjs&logoColor=5fa04e" alt="Back end" />
+  <img src="detail-fullstack.jpg" alt="Three frosted glass software layers with a luminous model core in the middle layer" width="100%" />
+</p>
+
+JavaScript and React on the front, Node behind it, and Dart with Flutter when the product is a mobile app. The model sits in that stack, so the interface and the logic stay in step.
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-121418?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-121418?style=flat-square&logo=dart&logoColor=0175c2" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-121418?style=flat-square&logo=flutter&logoColor=54c5f8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Front%20end-121418?style=flat-square&logo=react&logoColor=61dafb" alt="Front end" />
+  <img src="https://img.shields.io/badge/Back%20end-121418?style=flat-square&logo=nodedotjs&logoColor=5fa04e" alt="Back end" />
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,dart,flutter,git,github&perline=9" alt="Full-stack signs: JavaScript, HTML, CSS, React, Node.js, Dart, Flutter, Git, GitHub" />
 </p>
 
-## AI Engineer
-
-The model, the prompt, the data it can see, and the place in the interface where a person gets a useful result. The AI sits inside the product.
+## Design
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20product-111111?style=flat-square" alt="AI product" />
-  <img src="https://img.shields.io/badge/LLM-111111?style=flat-square" alt="LLM" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
-  <img src="https://img.shields.io/badge/Applied%20AI-111111?style=flat-square" alt="Applied AI" />
+  <img src="detail-design.jpg" alt="A design study with a grid plate, material samples, a white form model, and a finished metal object" width="100%" />
+</p>
+
+The grid, the material, and the object are one study. Spacing, color, and form are decided together, then built to the same measures.
+
+<p>
+  <img src="https://img.shields.io/badge/UI-121418?style=flat-square&logo=figma&logoColor=d5d0c8" alt="UI" />
+  <img src="https://img.shields.io/badge/Layout-121418?style=flat-square&logo=css3&logoColor=d5d0c8" alt="Layout" />
+  <img src="https://img.shields.io/badge/Materials-121418?style=flat-square" alt="Materials" />
+  <img src="https://img.shields.io/badge/Build-121418?style=flat-square" alt="Build" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,vscode&perline=8" alt="Design signs: Figma, HTML, CSS, VS Code" />
+</p>
+
+## AI integration
+
+<p>
+  <img src="detail-ai.jpg" alt="A product linked by light to a glass model core and a result drawn on a glass slab" width="100%" />
+</p>
+
+The model, the data it can see, and the place in the product where a result appears. The path runs from the core to the surface, and a person gets an answer they can use.
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20product-121418?style=flat-square" alt="AI product" />
+  <img src="https://img.shields.io/badge/LLM-121418?style=flat-square" alt="LLM" />
+  <img src="https://img.shields.io/badge/Python-121418?style=flat-square&logo=python&logoColor=8fd0e0" alt="Python" />
+  <img src="https://img.shields.io/badge/Applied%20AI-121418?style=flat-square" alt="Applied AI" />
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,linux,vscode&perline=6" alt="AI signs: Python, Linux, VS Code" />
-</p>
-
-## Expert
-
-An idea carried through development, design, engineering, and manufacturing. The decisions are what to build, how it is made, and what ships.
-
-<p>
-  <img src="https://img.shields.io/badge/Development-e3b341?style=flat-square&labelColor=111111" alt="Development" />
-  <img src="https://img.shields.io/badge/Design-e3b341?style=flat-square&labelColor=111111" alt="Design" />
-  <img src="https://img.shields.io/badge/Engineering-e3b341?style=flat-square&labelColor=111111" alt="Engineering" />
-  <img src="https://img.shields.io/badge/Manufacturing-e3b341?style=flat-square&labelColor=111111" alt="Manufacturing" />
-  <img src="https://img.shields.io/badge/Product-e3b341?style=flat-square&labelColor=111111" alt="Product" />
 </p>
 
 ## Profile
