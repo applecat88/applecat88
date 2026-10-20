@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="studio.jpg" alt="AppleCat88 studio — design, full-stack development, and AI engineering" width="100%" />
+  <img src="studio.jpg" alt="AppleCat88 studio â€” design, full-stack development, and AI engineering" width="100%" />
 </p>
-
-<p align="center">
-  <img src="banner.jpg" alt="AppleCat — 3D production, full-stack AI, precise design, and integrated intelligence" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/3D%20Production-121418?style=for-the-badge&labelColor=9bb0c0&color=121418" alt="3D Production" />
   <img src="https://img.shields.io/badge/Full--Stack%20AI-121418?style=for-the-badge&labelColor=e7b56a&color=121418" alt="Full-Stack AI" />
@@ -100,7 +95,7 @@ The same bench runs from a machined part to a working product. The work is 3D pr
 ## 3D production
 
 <p>
-  <img src="detail-3d.jpg" alt="A machined metal lattice on a fixture, with a luminous toolpath above it and a printed lattice beside it" width="100%" />
+  <img src="3D.png" alt="A machined metal lattice on a fixture, with a luminous toolpath above it and a printed lattice beside it" width="100%" />
 </p>
 
 A part is planned as geometry, then cut, printed, and finished. Toolpaths, lattices, and the fixture under the work stay in one process.
@@ -115,7 +110,7 @@ A part is planned as geometry, then cut, printed, and finished. Toolpaths, latti
 ## Full-stack
 
 <p>
-  <img src="detail-fullstack.jpg" alt="Three frosted glass software layers with a luminous model core in the middle layer" width="100%" />
+  <img src="fullstack.png" alt="Three frosted glass software layers with a luminous model core in the middle layer" width="100%" />
 </p>
 
 JavaScript and React on the front, Node behind it, and Dart with Flutter when the product is a mobile app. The model sits in that stack, so the interface and the logic stay in step.
@@ -135,7 +130,7 @@ JavaScript and React on the front, Node behind it, and Dart with Flutter when th
 ## Design
 
 <p>
-  <img src="detail-design.jpg" alt="A design study with a grid plate, material samples, a white form model, and a finished metal object" width="100%" />
+  <img src="design.png" alt="A design study with a grid plate, material samples, a white form model, and a finished metal object" width="100%" />
 </p>
 
 The grid, the material, and the object are one study. Spacing, color, and form are decided together, then built to the same measures.
@@ -154,7 +149,7 @@ The grid, the material, and the object are one study. Spacing, color, and form a
 ## AI integration
 
 <p>
-  <img src="detail-ai.jpg" alt="A product linked by light to a glass model core and a result drawn on a glass slab" width="100%" />
+  <img src="AI.png" alt="A product linked by light to a glass model core and a result drawn on a glass slab" width="100%" />
 </p>
 
 The model, the data it can see, and the place in the product where a result appears. The path runs from the core to the surface, and a person gets an answer they can use.
