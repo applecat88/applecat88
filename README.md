@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="AppleCat — Design, Full-Stack Development, AI Engineer, Expert" width="100%" />
+  <img src="banner.png" alt="AppleCat — Design, Full-Stack Development, AI Engineer, Expert" width="100%" />
 </p>
 
 <p align="center">
