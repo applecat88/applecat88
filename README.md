@@ -17,55 +17,57 @@ I’m here to help turn an idea into something real. The work covers the screen, t
 
 <table align="center">
   <tr>
-    <td align="center" width="140">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="100" alt="Pair Extraordinaire" /><br />
+    <td align="center" width="150">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="96" alt="Pair Extraordinaire" /><br />
       <b>Pair Extraordinaire</b><br /><sub>Gold</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="100" alt="Pull Shark" /><br />
+    <td align="center" width="150">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="96" alt="Pull Shark" /><br />
       <b>Pull Shark</b><br /><sub>Gold</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="100" alt="Galaxy Brain" /><br />
+    <td align="center" width="150">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="96" alt="Galaxy Brain" /><br />
       <b>Galaxy Brain</b><br /><sub>Gold</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="100" alt="Starstruck" /><br />
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="96" alt="Starstruck" /><br />
       <b>Starstruck</b><br /><sub>Gold</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png" width="100" alt="Heart On Your Sleeve" /><br />
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png" width="96" alt="Heart On Your Sleeve" /><br />
       <b>Heart On Your Sleeve</b><br /><sub>Gold</sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png" width="100" alt="Open Sourcerer" /><br />
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png" width="96" alt="Open Sourcerer" /><br />
       <b>Open Sourcerer</b><br /><sub>Gold</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw" /><br />
-      <b>Quickdraw</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO" /><br />
-      <b>YOLO</b>
     </td>
   </tr>
   <tr>
-    <td colspan="4" align="center">
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="96" alt="Quickdraw" /><br />
+      <b>Quickdraw</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="96" alt="YOLO" /><br />
+      <b>YOLO</b>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="96" alt="Public Sponsor" /><br />
+      <b>Public Sponsor</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
       <table>
         <tr>
-          <td align="center" width="140">
-            <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="100" alt="Public Sponsor" /><br />
-            <b>Public Sponsor</b>
-          </td>
-          <td align="center" width="140">
-            <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="100" alt="Arctic Code Vault Contributor" /><br />
+          <td align="center" width="150">
+            <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="96" alt="Arctic Code Vault Contributor" /><br />
             <b>Arctic Code Vault</b>
           </td>
-          <td align="center" width="140">
-            <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="100" alt="Mars 2020 Contributor" /><br />
+          <td align="center" width="150">
+            <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="96" alt="Mars 2020 Contributor" /><br />
             <b>Mars 2020</b>
           </td>
         </tr>
