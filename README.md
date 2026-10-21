@@ -86,12 +86,6 @@ The same bench runs from a machined part to a working product. The work is 3D pr
   The profile shows a badge only after GitHub awards it. Arctic Code Vault and Mars 2020 are closed events. Gold for stars, co-authored work, and accepted answers comes from other people.
 </p>
 
-<p align="center">
-  <a href="https://github.com/applecat88?tab=achievements">
-    <img src="https://github-readme-stats.vercel.app/api?username=applecat88&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=e3b341&icon_color=79c0ff&text_color=c9d1d9&ring_color=a371f7" alt="GitHub stats for applecat88" />
-  </a>
-</p>
-
 ## 3D production
 
 <p>
