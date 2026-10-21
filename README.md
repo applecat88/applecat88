@@ -82,10 +82,6 @@ The same bench runs from a machined part to a working product. The work is 3D pr
   </tr>
 </table>
 
-<p align="center">
-  The profile shows a badge only after GitHub awards it. Arctic Code Vault and Mars 2020 are closed events. Gold for stars, co-authored work, and accepted answers comes from other people.
-</p>
-
 ## 3D production
 
 <p>
